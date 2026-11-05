@@ -1,0 +1,6 @@
+activity_type,cash_flow_category,inflow,outflow,net_cash_flow
+Operating,Inventory purchases,0,270000,-270000
+Operating,Payroll,0,65000,-65000
+Operating,Rent,0,120000,-120000
+Operating,Sales receipts,830000,0,830000
+Operating,Customer refunds,0,25000,-25000
