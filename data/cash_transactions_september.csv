@@ -1,0 +1,8 @@
+date,entity,counterparty_group,description,cash_flow_category,activity_type,inflow,outflow,is_internal_transfer
+2026-09-01,Entity A,Customer 1,Product payment,Sales receipts,Operating,450000,0,false
+2026-09-01,Entity B,Landlord,Warehouse rent,Rent,Operating,0,120000,false
+2026-09-03,Entity B,Customer 2,Product payment,Sales receipts,Operating,380000,0,false
+2026-09-04,Entity A,Employee,Manager salary,Payroll,Operating,0,65000,false
+2026-09-05,Entity B,Supplier 1,Inventory purchase,Inventory purchases,Operating,0,270000,false
+2026-09-09,Entity A,Entity B,Inter-account transfer (one side recorded),Internal transfer,Internal,0,200000,true
+2026-09-12,Entity A,Customer 2,Defect refund,Customer refunds,Operating,0,25000,false
