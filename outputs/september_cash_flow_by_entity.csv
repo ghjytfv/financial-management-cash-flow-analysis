@@ -1,0 +1,3 @@
+entity,inflow,outflow,net_cash_flow
+Entity A,450000,90000,360000
+Entity B,380000,390000,-10000
