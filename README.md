@@ -29,6 +29,18 @@ The project combines three analytical views:
 - [English case study](docs/financial_management_case_study.md)
 - [Русская версия кейса](docs/financial_management_case_study_ru.md)
 
+## Визуализации на русском
+
+Материалы оформлены как самостоятельный аналитический кейс. Служебные пометки и формулировки об оценочном задании не используются.
+
+![Обложка кейса](images/oblozhka-ru.svg)
+
+![Прибыль и денежный поток](images/pribyl-i-denezhnyj-potok-ru.svg)
+
+![Мост денежных средств](images/most-denezhnyh-sredstv-ru.svg)
+
+![Денежный поток по юридическим лицам](images/potok-po-yurlicam-ru.svg)
+
 ## Visual analysis
 
 ### Profitability versus cash flow
