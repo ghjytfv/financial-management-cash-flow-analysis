@@ -24,6 +24,11 @@ The project combines three analytical views:
 
 **Important:** The monthly model and September transaction sample are separate illustrative datasets. They must not be combined into one reconciled ledger.
 
+## Reports / Отчёты
+
+- [English case study](docs/financial_management_case_study.md)
+- [Русская версия кейса](docs/financial_management_case_study_ru.md)
+
 ## Visual analysis
 
 ### Profitability versus cash flow
