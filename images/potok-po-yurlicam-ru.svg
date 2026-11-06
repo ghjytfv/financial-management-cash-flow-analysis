@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#f5f7fa"/><rect x="54" y="48" width="1092" height="579" rx="22" fill="#ffffff" stroke="#dce3eb"/>
+<text x="96" y="112" font-family="Arial,sans-serif" font-size="22" fill="#526174">ФИНАНСОВЫЙ МЕНЕДЖМЕНТ · АНАЛИТИЧЕСКИЙ КЕЙС</text>
+<text x="96" y="176" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#172638">Денежный поток по юрлицам</text>
+<text x="96" y="218" font-family="Arial,sans-serif" font-size="22" fill="#526174">Сентябрьская выборка операций после исключения внутреннего перевода</text>
+<text x="150" y="310" font-family="Arial" font-size="24" fill="#344456">ИП</text><rect x="300" y="278" width="540" height="50" rx="8" fill="#36a18b"/><text x="865" y="312" font-family="Arial" font-size="25" font-weight="700" fill="#147d64">+360 000 ₽</text>
+<text x="150" y="405" font-family="Arial" font-size="24" fill="#344456">ООО</text><rect x="300" y="373" width="15" height="50" rx="5" fill="#c65c57"/><text x="865" y="407" font-family="Arial" font-size="25" font-weight="700" fill="#b64a45">−10 000 ₽</text>
+<line x1="300" y1="470" x2="840" y2="470" stroke="#cbd4de" stroke-width="2"/><text x="300" y="520" font-family="Arial" font-size="20" fill="#526174">Консолидированный поток: +350 000 ₽</text>
+<text x="96" y="590" font-family="Arial,sans-serif" font-size="16" fill="#7b8794">Иллюстративные обезличенные данные · июль–сентябрь 2026 · ₽</text></svg>
